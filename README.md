@@ -132,6 +132,5 @@
 * [Using Confidence Bounds for Exploitation-Exploration Trade-offs](https://github.com/wzhe06/Ad-papers/blob/master/Exploration%20and%20Exploitation/Using%20Confidence%20Bounds%20for%20Exploitation-Exploration%20Trade-offs.pdf) <br />
 
 ### Allocation
-广告流量的分配问题
 * [An Efficient Algorithm for Allocation of Guaranteed Display Advertising](https://github.com/wzhe06/Ad-papers/blob/master/Allocation/An%20Efficient%20Algorithm%20for%20Allocation%20of%20Guaranteed%20Display%20Advertising.pdf) <br />
 * [Ad Serving Using a Compact Allocation Plan](https://github.com/wzhe06/Ad-papers/blob/master/Allocation/Ad%20Serving%20Using%20a%20Compact%20Allocation%20Plan.pdf) <br />
