@@ -1,7 +1,5 @@
 ### Optimization Method
-Online Optimization，Parallel SGD，FTRL等优化方法，实用并且能够给出直观解释的文章
 * [Google Vizier A Service for Black-Box Optimization](https://github.com/wzhe06/Ad-papers/blob/master/Optimization%20Method/Google%20Vizier%20A%20Service%20for%20Black-Box%20Optimization.pdf) <br />
-* [在线最优化求解(Online Optimization)-冯扬](https://github.com/wzhe06/Ad-papers/blob/master/Optimization%20Method/%E5%9C%A8%E7%BA%BF%E6%9C%80%E4%BC%98%E5%8C%96%E6%B1%82%E8%A7%A3%28Online%20Optimization%29-%E5%86%AF%E6%89%AC.pdf) <br />
 * [Hogwild A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](https://github.com/wzhe06/Ad-papers/blob/master/Optimization%20Method/Hogwild%20A%20Lock-Free%20Approach%20to%20Parallelizing%20Stochastic%20Gradient%20Descent.pdf) <br />
 * [Parallelized Stochastic Gradient Descent](https://github.com/wzhe06/Ad-papers/blob/master/Optimization%20Method/Parallelized%20Stochastic%20Gradient%20Descent.pdf) <br />
 * [A Survey on Algorithms of the Regularized Convex Optimization Problem](https://github.com/wzhe06/Ad-papers/blob/master/Optimization%20Method/A%20Survey%20on%20Algorithms%20of%20the%20Regularized%20Convex%20Optimization%20Problem.pptx) <br />
